@@ -1,7 +1,7 @@
 class Person 
-  def initialize(name)
-    @name = name
+  def initialize(persons_name)
+    @name = persons_name
   end
-  def 
+  def name
   
 end
